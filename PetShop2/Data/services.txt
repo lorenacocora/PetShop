@@ -1,0 +1,4 @@
+﻿1,trimming,10,10,hair oil
+2,vaccine,130,5,AstraZeneca Vaccine
+3,int deparasitaion,50,5,O Pill
+4,ext deparasitation,75,15,ABC

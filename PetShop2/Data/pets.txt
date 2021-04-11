@@ -1,0 +1,5 @@
+1,lili,3,FEMININ,dog
+2,sami,29,MASCULINE,turtle
+3,mimi,1,FEMININ,cat
+4,Polo,13,UNKNOWN,chicken
+5,Solomon,2,MASCULINE,Fish

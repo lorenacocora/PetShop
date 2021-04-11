@@ -1,0 +1,13 @@
+D:\Semestru 2\Software Engineering\PetShop2\PetShop2\bin\Debug\netcoreapp3.1\PetShop2.exe
+D:\Semestru 2\Software Engineering\PetShop2\PetShop2\bin\Debug\netcoreapp3.1\PetShop2.deps.json
+D:\Semestru 2\Software Engineering\PetShop2\PetShop2\bin\Debug\netcoreapp3.1\PetShop2.runtimeconfig.json
+D:\Semestru 2\Software Engineering\PetShop2\PetShop2\bin\Debug\netcoreapp3.1\PetShop2.runtimeconfig.dev.json
+D:\Semestru 2\Software Engineering\PetShop2\PetShop2\bin\Debug\netcoreapp3.1\PetShop2.dll
+D:\Semestru 2\Software Engineering\PetShop2\PetShop2\bin\Debug\netcoreapp3.1\PetShop2.pdb
+D:\Semestru 2\Software Engineering\PetShop2\PetShop2\obj\Debug\netcoreapp3.1\PetShop2.AssemblyInfoInputs.cache
+D:\Semestru 2\Software Engineering\PetShop2\PetShop2\obj\Debug\netcoreapp3.1\PetShop2.AssemblyInfo.cs
+D:\Semestru 2\Software Engineering\PetShop2\PetShop2\obj\Debug\netcoreapp3.1\PetShop2.csproj.CoreCompileInputs.cache
+D:\Semestru 2\Software Engineering\PetShop2\PetShop2\obj\Debug\netcoreapp3.1\PetShop2.dll
+D:\Semestru 2\Software Engineering\PetShop2\PetShop2\obj\Debug\netcoreapp3.1\PetShop2.pdb
+D:\Semestru 2\Software Engineering\PetShop2\PetShop2\obj\Debug\netcoreapp3.1\PetShop2.genruntimeconfig.cache
+D:\Semestru 2\Software Engineering\PetShop2\PetShop2\obj\Debug\netcoreapp3.1\PetShop2.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\Semestru 2\Software Engineering\PetShop2\PetShopTests\obj\Debug\netcoreapp3.1\PetShopTests.csprojAssemblyReference.cache
+D:\Semestru 2\Software Engineering\PetShop2\PetShopTests\obj\Debug\netcoreapp3.1\PetShopTests.AssemblyInfoInputs.cache
+D:\Semestru 2\Software Engineering\PetShop2\PetShopTests\obj\Debug\netcoreapp3.1\PetShopTests.AssemblyInfo.cs
+D:\Semestru 2\Software Engineering\PetShop2\PetShopTests\obj\Debug\netcoreapp3.1\PetShopTests.csproj.CoreCompileInputs.cache
